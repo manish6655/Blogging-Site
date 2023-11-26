@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/gamers",
+    "prod_uri": "mysql://root:@localhost/gamers",
+    "fb_url": "https://facebook.com/gamers",
+    "tw_url": "https://twitter.com/gamers",
+    "gt_url": "https://github.com/gamers",
+    "blog_name": "Manish Blog",
+    "tag_line": "A Blog liked by manish pathak",
+    "old_button": "Newest Posts",
+    "gmail-user": "youremail@gmail.com",
+    "gmail-password": "your password",
+    "about-txt": "hey i am manish",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "manish",
+    "admin_password": "manish1",
+    "upload_location": "C:\\project cwh\\static"
+  }
+}
